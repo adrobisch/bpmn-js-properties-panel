@@ -77,5 +77,7 @@ describe('element-templates/props - TemplateProps', function() {
     it('should boostrap with bpmn-js', inject(function() {
 
     }));
+
   });
+
 });
